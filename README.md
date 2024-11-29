@@ -5,7 +5,7 @@
 
 <div align="center">
   <kbd>
-    <img src="https://l.top4top.io/p_3240kx85y1.png" href="https://github.com/TanakaDomp" style="width : 250px; height : 250px">
+    <img src="https://raw.githubusercontent.com/TanakaDomp/uploder-db/main/uploads/1732847987524.jpeg" href="https://github.com/TanakaDomp" style="width : 250px; height : 250px">
   </kbd>
   <h3>Meliputi</h3>
   <p>Games, Image, Nsfw, Music, Video</p>
